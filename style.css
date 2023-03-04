@@ -188,6 +188,7 @@ body{
 
     .heading h1{
         font-size: 3.4rem;
+        color: hsl(300, 43%, 22%);;
     }
 
    .heading p{
