@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-- Live Site URL: [Live Site](https://adarsh78.github.io/Social-Proof-Section-Master/)
+- Live Site URL: [Live Site]()
 
 ## My process
 
